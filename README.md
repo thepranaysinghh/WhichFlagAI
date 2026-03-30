@@ -1,6 +1,6 @@
 # WhichFlagAI 🚩
 
-> India's first AI-powered Relationship & Marriage Decision Support System
+>  AI-powered Relationship & Marriage Decision Support System
 
 ## 🌐 Live Demo
 [whichflagai.vercel.app](https://whichflagai.vercel.app)
